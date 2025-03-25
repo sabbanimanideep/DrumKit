@@ -2,7 +2,7 @@
 
 DrumKit is a simple web-based drum kit that allows users to play different drum sounds using their keyboard.
 
-![DrumKit Preview](/Users/sabbanimanideep/Intership projects/drumkit/DrumKit/Screenshot 2025-03-25 at 10.40.45 AM.png)
+![DrumKit Preview](https://github.com/sabbanimanideep/DrumKit/blob/main/Screenshot%202025-03-25%20at%2010.40.45%E2%80%AFAM.png?raw=true)
 
 ## Features 🚀
 - Press specific keys to play different drum sounds.
