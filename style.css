@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    justify-content: space-evenly;
+    background-image: url(https://t3.ftcdn.net/jpg/06/57/19/48/360_F_657194841_BqSJ8nHiWgZ0qwrT1Frw7OJzfea0IUJj.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.key {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid white;
+    transition: all 0.5s ease-in-out;
+    border-radius: 10px;
+}
+
+.play {
+    border: 2px solid #ff9900;
+    box-shadow: 0 0 10px gold, 0 0 15px #ffcc00, 0 0 20px #ff9900;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: 60px;
+    border-radius: 10px;
+}
